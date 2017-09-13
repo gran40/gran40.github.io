@@ -92,7 +92,13 @@ body{
 }
 
 h1{
-	font-size:56px;
+	font-size:80px;
+	font-weight:300;
+	text-align:center;
+}
+
+h2{
+	font-size:40px;
 	font-weight:300;
 	text-align:center;
 }
